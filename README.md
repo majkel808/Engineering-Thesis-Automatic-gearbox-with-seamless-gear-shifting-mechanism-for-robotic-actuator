@@ -22,7 +22,7 @@ The design of the robotic arm allows it to achieve high angular velocity, while 
 
 #### The 3D render of the designed gearbox:
 
-<img src="https://github.com/majkel808/Engineering_Thesis_Automatic_gearbox_with_seamless_gear_shifting_mechanism_for_robotic_actuator/assets/163661382/b131ab3c-a6f9-4a0b-ade7-f672599779ae" alt="New_automatic_cycklo_assembly_1" width="800" style="border-radius: 200px;" />
+<img src="https://github.com/majkel808/Engineering_Thesis_Automatic_gearbox_with_seamless_gear_shifting_mechanism_for_robotic_actuator/assets/163661382/b131ab3c-a6f9-4a0b-ade7-f672599779ae" alt="New_automatic_cycklo_assembly_1" width="700" style="border-radius: 200px;" />
 
 ## Project Stages
 ### Reasrch
@@ -33,6 +33,13 @@ The most inporantat and challanging part of my thesis was the optimalisation of 
 
 ### Concept Development
 The next stage was the development of the device's design based on previous research and comparison of possible solutions. I have developed the following operation diagram of the device.
+
+<img src="https://github.com/majkel808/Engineering_Thesis_Automatic_gearbox_with_seamless_gear_shifting_mechanism_for_robotic_actuator/assets/163661382/4ef46058-4046-4ab5-bbd3-063aa6f04634" alt="New_automatic_cycklo_assembly_1" width="400" style="border-radius: 200px;" />
+
+An illustrative depiction featuring labeled components of the designed device.
+
+<img src="https://github.com/majkel808/Engineering_Thesis_Automatic_gearbox_with_seamless_gear_shifting_mechanism_for_robotic_actuator/assets/163661382/c44094ac-eafc-453b-a403-88f1ee0dbb6f" alt="New_automatic_cycklo_assembly_1" width="400" style="border-radius: 200px;" />
+
 
 ### Calculation of Design Parameters
 
