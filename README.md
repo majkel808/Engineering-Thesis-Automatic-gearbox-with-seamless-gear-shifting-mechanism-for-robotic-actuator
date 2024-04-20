@@ -65,6 +65,18 @@ An illustrative depiction featuring labeled components of the designed device.
 5. Finally, the necessary calculations were conducted to select the belt transmission, motors, and electromagnetic brake for locking the position of the low-ratio gearbox input shaft.
    
 ### 3D Model Development
+The 3D model of the device was created using the Autodesk Inventor sofware. The device has been divided into several subcomponents. For every assebly the 3D render of the side view and the crossection has been privided. 
+  - The high-speed gearbox drive shaft assembly
+    
+  <img src="https://github.com/majkel808/Engineering_Thesis_Automatic_gearbox_with_seamless_gear_shifting_mechanism_for_robotic_actuator/assets/163661382/1046461a-4af5-411a-ab54-a70797168f7b" alt="New_automatic_cycklo_assembly_1" width="550" style="border-radius: 200px;" />
+
+  - The high-torque gearbox drive shaft assembly
+    
+  <img src="https://github.com/majkel808/Engineering_Thesis_Automatic_gearbox_with_seamless_gear_shifting_mechanism_for_robotic_actuator/assets/163661382/c64957c0-b5ec-4293-b673-f8f5a3926526" alt="New_automatic_cycklo_assembly_1" width="550" style="border-radius: 200px;" />
+
+  - Automatic transmission assembly
+  <img src="https://github.com/majkel808/Engineering_Thesis_Automatic_gearbox_with_seamless_gear_shifting_mechanism_for_robotic_actuator/assets/163661382/d941ebfb-a180-4160-a2a0-b2f98a9ad7e3" alt="New_automatic_cycklo_assembly_1" width="550" style="border-radius: 200px;" />
+    <img src="https://github.com/majkel808/Engineering_Thesis_Automatic_gearbox_with_seamless_gear_shifting_mechanism_for_robotic_actuator/assets/163661382/62c8507e-ec45-4b93-8a2a-1485059a9fd0" alt="New_automatic_cycklo_assembly_1" width="550" style="border-radius: 200px;" />
 
 ### Making of the prototype
 
