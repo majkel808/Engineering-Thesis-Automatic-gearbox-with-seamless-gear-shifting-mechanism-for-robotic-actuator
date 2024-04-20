@@ -21,7 +21,7 @@ The design of the robotic arm allows it to achieve high angular velocity, while 
 
 #### The 3D render of the designed gearbox:
 
-<img src="https://github.com/majkel808/Engineering_Thesis_Automatic_gearbox_with_seamless_gear_shifting_mechanism_for_robotic_actuator/assets/163661382/b131ab3c-a6f9-4a0b-ade7-f672599779ae" alt="New_automatic_cycklo_assembly_1" width="800" style="border-radius: 20px;" />
+<img src="https://github.com/majkel808/Engineering_Thesis_Automatic_gearbox_with_seamless_gear_shifting_mechanism_for_robotic_actuator/assets/163661382/b131ab3c-a6f9-4a0b-ade7-f672599779ae" alt="New_automatic_cycklo_assembly_1" width="800" style="border-radius: 200px;" />
 
 
 
