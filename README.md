@@ -59,6 +59,11 @@ An illustrative depiction featuring labeled components of the designed device.
 
 3. An analytical analysis of the transmission efficiency was conducted, necessary for the correct selection of the motor to ensure the system operates in accordance with the specified requirements.
 4. For efficiency optimization, a Python program was written to allow testing of various transmission parameters and selecting the best configuration of these parameters. The results of the analysis of the relationship between the eccentricity of the input shaft and the efficiency has been presented in the picture below.
+   
+<img src="https://github.com/majkel808/Engineering_Thesis_Automatic_gearbox_with_seamless_gear_shifting_mechanism_for_robotic_actuator/assets/163661382/74db0190-bc7f-4ef1-8df9-deb88d459676" alt="New_automatic_cycklo_assembly_1" width="400" style="border-radius: 200px;" />
+
+5. Finally, the necessary calculations were conducted to select the belt transmission, motors, and electromagnetic brake for locking the position of the low-ratio gearbox input shaft.
+   
 ### 3D Model Development
 
 ### Making of the prototype
