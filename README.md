@@ -32,7 +32,7 @@ My biggest inspiration fo the project was "A two-speed actuator for robotics wit
 The most inporantat and challanging part of my thesis was the optimalisation of the device efficiency based on the tribological reaserch of cyckloidal drives, such as A "COMPARATIVE CALCULATION OF CYCLOID DRIVE EFFICIENCY”[2].
 
 ### Concept Development
-The next stage was the development of the device's design based on previous research and comparison of possible solutions. I have developed the following operation diagram of the device.
+The next stage was the development of the device's design based on previous research and comparison of possible solutions. I have developed the following operation diagram of the device. 
 
 <img src="https://github.com/majkel808/Engineering_Thesis_Automatic_gearbox_with_seamless_gear_shifting_mechanism_for_robotic_actuator/assets/163661382/4ef46058-4046-4ab5-bbd3-063aa6f04634" alt="New_automatic_cycklo_assembly_1" width="400" style="border-radius: 200px;" />
 
@@ -40,9 +40,25 @@ An illustrative depiction featuring labeled components of the designed device.
 
 <img src="https://github.com/majkel808/Engineering_Thesis_Automatic_gearbox_with_seamless_gear_shifting_mechanism_for_robotic_actuator/assets/163661382/c44094ac-eafc-453b-a403-88f1ee0dbb6f" alt="New_automatic_cycklo_assembly_1" width="400" style="border-radius: 200px;" />
 
+<figcaption style="text-align: left;">
+  
+  1. Motor 1
+  2. Shaft locking mechanism
+  3. Motor 2
+  4. Low ration cyckloidal reducer
+  5. Blet driven reducer
+  6. Output shaft
+  7. High ration cycloidal reducer
+</figcaption>
 
 ### Calculation of Design Parameters
+1. After specifying the device requirements, calculations were conducted to determine the necessary gear ratios for both transmissions.
+2. Knowing the gear ratios, a model was selected to generate the epicycloidal curve. A Python script was employed to present various geometric configuration parameters of the transmission to find the optimal device design. In the picture belowe, one of those configuartions has been presented.
 
+<img src="https://github.com/majkel808/Engineering_Thesis_Automatic_gearbox_with_seamless_gear_shifting_mechanism_for_robotic_actuator/assets/163661382/83e1a713-7f1c-44d3-bbc4-3dafc844dbde" alt="New_automatic_cycklo_assembly_1" width="400" style="border-radius: 200px;" />
+
+3. An analytical analysis of the transmission efficiency was conducted, necessary for the correct selection of the motor to ensure the system operates in accordance with the specified requirements.
+4. For efficiency optimization, a Python program was written to allow testing of various transmission parameters and selecting the best configuration of these parameters. The results of the analysis of the relationship between the eccentricity of the input shaft and the efficiency has been presented in the picture below.
 ### 3D Model Development
 
 ### Making of the prototype
