@@ -79,8 +79,27 @@ The 3D model of the device was created using the Autodesk Inventor sofware. The 
     <img src="https://github.com/majkel808/Engineering_Thesis_Automatic_gearbox_with_seamless_gear_shifting_mechanism_for_robotic_actuator/assets/163661382/62c8507e-ec45-4b93-8a2a-1485059a9fd0" alt="New_automatic_cycklo_assembly_1" width="550" style="border-radius: 200px;" />
 
 ### Making of the prototype
+The prototype of the device has been constructed to confirm the required functionality and for establishing the possible use of the cycklidal drive in the automatic transimsion. The components were manufactured in the most parts with my own FDM 3D printer. The commercial components required for this project include bearings, shafts, mounting elements and clutches. 
+The prototype was contrlled by 2 stepper motor drivers with custom arduino code. The builing procces and the final version of the prototype has been preseneted in the pictures below. 
+
+- Comapct cycloidal drive before the assebly
+  
+  <img src="https://github.com/majkel808/Engineering_Thesis_Automatic_gearbox_with_seamless_gear_shifting_mechanism_for_robotic_actuator/assets/163661382/e057688e-1bf3-4fd6-a928-28bf45267a13" alt="New_automatic_cycklo_assembly_1" width="400" style="border-radius: 200px;" />
+  
+- The fully assebled actuoator
+  
+  <img src="https://github.com/majkel808/Engineering_Thesis_Automatic_gearbox_with_seamless_gear_shifting_mechanism_for_robotic_actuator/assets/163661382/84212a52-0caa-4b5e-8a8f-1c4f844fd8ba" alt="New_automatic_cycklo_assembly_1" width="400" style="border-radius: 200px;" />
+            
+
 
 ## Technologies 
+
+During the work on this engineering thesis, it was necessary to use various engineering software, including:
+
+- Autodesk Inventor - for developing the 3D model
+- AutoCAD - for developing technical documentation
+- Ansys Mechanical - for mass optimization of the cycloidal disk
+- Python - for calculations related to epicycloid geometry and transmission efficiency optimization
 
 ## Documentation
 
