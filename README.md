@@ -112,5 +112,6 @@ This project requires further optimization, particularly in correcting the epicy
 ## Bibliography
 [1]: A. Girard and H. Asada, A two-speed actuator for robotics with fast seamless gear shifting. 2015,
 p. 4711. doi: 10.1109/IROS.2015.7354047.
+
 [2] M. Vasić, “A COMPARATIVE CALCULATION OF CYCLOID DRIVE EFFICIENCY,” Mach. Des., Jan.
 2020, Accessed: Jul. 10, 2023. [Online]. Available: https://www.academia.edu/79815900/A_COMPARATIVE_CALCULATION_OF_CYCLOID_DRIVE_EFFICIENCY
