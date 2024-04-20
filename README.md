@@ -103,7 +103,11 @@ During the work on this engineering thesis, it was necessary to use various engi
 
 ## Documentation
 
+The technical drawing required for manufacturing part has been made in Autodesk AutoCAD. Part would be manufactured via CNC machining, laser cutting and 3D printing. Whole documentation has been providedn in sub-folder of this repository.
+
 ## Future Work
+
+This project requires further optimization, particularly in correcting the epicycloidal gearing. Subsequently, further prototype testing would be required, which could be constructed in smaller parts using 3D printing to ensure greater structural rigidity.
 
 ## Bibliography
 [1]: A. Girard and H. Asada, A two-speed actuator for robotics with fast seamless gear shifting. 2015,
