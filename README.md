@@ -1,6 +1,11 @@
 # Engineering Thesis: Automatic gearbox based on cycloidal drive for robotic actuator
 
-An actuator for a robot arm was designed, based on a variable transmission gearbox utilizing a cycloidal drive. The diploma thesis included a review of existing solutions, calculations related to the design of the cycloidal gearbox, and the development of a 3D model of the device.
+Engineering Thesis at the Warsaw University of Technology, 
+Field of Study: Mechatronics
+Specialization: Micromechanics
+Academic Advisor: Marcin Michalowski PhD 
+
+An actuator for a robotic arm was designed, based on a variable transmission gearbox utilizing a cycloidal drive. The diploma thesis included a review of existing solutions, calculations related to the design of the cycloidal gearbox, and the development of a 3D model of the device.
 
 ## Table of Contents
 - [Detailed Description](#detailed-description)
